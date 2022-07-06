@@ -1,0 +1,16 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/webcrawler/__init__.py
+src/webcrawler/crawler.py
+src/webcrawler/general.py
+src/webcrawler/get_links.py
+src/webcrawler/main.py
+src/webcrawler.egg-info/PKG-INFO
+src/webcrawler.egg-info/SOURCES.txt
+src/webcrawler.egg-info/dependency_links.txt
+src/webcrawler.egg-info/not-zip-safe
+src/webcrawler.egg-info/requires.txt
+src/webcrawler.egg-info/top_level.txt
